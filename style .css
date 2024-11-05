@@ -1,5 +1,17 @@
-/* *{
+*{
     margin: 0px;
     padding: 0px;
 }
- */
+#navbar{
+    height: 30px;
+    background-color: blanchedalmond;
+}
+a{
+    text-decoration: none;
+    margin: 80px;
+} 
+.logo {
+    font-style: italic;
+    color: blue;
+    font-size: 15px;
+}
